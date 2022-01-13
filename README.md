@@ -1,2 +1,2 @@
-# coletar_series_bc
+# Coletar Séries BC
 Script para coletar séries do Banco Central
